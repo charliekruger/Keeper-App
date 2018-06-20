@@ -1,0 +1,33 @@
+Function=xamarin_timezone_get_data
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/charlie/Projects/Keeper/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret
